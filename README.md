@@ -33,7 +33,7 @@ if (false === curl_exec($ch)) {
 echo $body;
 ```
 
-# Small file download example
+# Regular file download example
 
 ```
 <?php
