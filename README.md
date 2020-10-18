@@ -83,7 +83,7 @@ echo $body;
 
 
 
-# Large file download example
+# Large file or stream download example
 
 ```
 <?php
